@@ -49,7 +49,7 @@ nav a:hover{
 header #buttons {
 	display: inline-block;
 	float: right;
-	margin-top: 20px;
+	margin-top: 12px;
 }
 
 header #buttons #login{
